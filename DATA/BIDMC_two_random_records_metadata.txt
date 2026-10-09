@@ -1,0 +1,62 @@
+
+======================================================================
+BIDMC RECORD: 41
+======================================================================
+
+Dataset: BIDMC PPG and Respiration Dataset
+Source: PhysioNet
+Waveform sampling rate: 125 Hz
+Numerics sampling rate: 1 Hz
+Waveforms: ECG, PPG, Respiration
+Parameters: HR, RR, PR, SpO2
+
+Original Fix metadata:
+--------------------------------------------------
+bidmc_41
+Signals: RESP; PLETH; I; II; V; ABP
+Signals sampling frequency: 125 Hz
+Numerics: HR; PULSE; RESP; SpO2
+Numerics sampling frequency: 1 Hz
+Age: 73
+Gender: F
+Location: ccu
+MIMIC II matched wdb ID: s26868
+MIMIC II data segment: 2926-03-22-14-16
+Original overall header file: http://physionet.org/physiobank/database/mimic2wdb/matched/s26868/s26868-2926-03-22-14-16.hea
+Original signals header file: http://physionet.org/physiobank/database/mimic2wdb/matched/s26868/3039150_0019.hea
+Original signals data file: http://physionet.org/physiobank/database/mimic2wdb/matched/s26868/3039150_0019.dat
+Original numerics header file: http://physionet.org/physiobank/database/mimic2wdb/matched/s26868/s26868-2926-03-22-14-16n.hea
+Original numerics data file: http://physionet.org/physiobank/database/mimic2wdb/matched/s26868/3039150n.dat
+
+
+
+======================================================================
+BIDMC RECORD: 08
+======================================================================
+
+Dataset: BIDMC PPG and Respiration Dataset
+Source: PhysioNet
+Waveform sampling rate: 125 Hz
+Numerics sampling rate: 1 Hz
+Waveforms: ECG, PPG, Respiration
+Parameters: HR, RR, PR, SpO2
+
+Original Fix metadata:
+--------------------------------------------------
+bidmc_08
+Signals: RESP; PLETH; II; V; AVR; ART; CVP
+Signals sampling frequency: 125 Hz
+Numerics: HR; PULSE; RESP; SpO2
+Numerics sampling frequency: 1 Hz
+Age: 64
+Gender: F
+Location: micu
+MIMIC II matched wdb ID: s03386
+MIMIC II data segment: 2577-08-03-12-35
+Original overall header file: http://physionet.org/physiobank/database/mimic2wdb/matched/s03386/s03386-2577-08-03-12-35.hea
+Original signals header file: http://physionet.org/physiobank/database/mimic2wdb/matched/s03386/3839183_0011.hea
+Original signals data file: http://physionet.org/physiobank/database/mimic2wdb/matched/s03386/3839183_0011.dat
+Original numerics header file: http://physionet.org/physiobank/database/mimic2wdb/matched/s03386/s03386-2577-08-03-12-35n.hea
+Original numerics data file: http://physionet.org/physiobank/database/mimic2wdb/matched/s03386/3839183n.dat
+
+
